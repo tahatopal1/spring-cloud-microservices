@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/7-Zuul API Gateway A Quick Start/PhotoAppApiZuulAPIGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/5-Users Microservice A Quick Start/PhotoAppApiUsers/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Eureka DiscoveryService A Quick Start/PhotoAppDiscoveryService/pom.xml" />
+        <option value="$PROJECT_DIR$/3-Building RESTful Web Services A Quick Start/quick-start-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/6-Account Management Microservice A Quick Start/PhotoAppApiAccountManagement/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>

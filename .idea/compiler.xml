@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PhotoAppApiAccountManagement" />
+        <module name="PhotoAppApiZuulAPIGateway" />
+        <module name="quick-start-spring-boot" />
+        <module name="PhotoAppDiscoveryService" />
+        <module name="PhotoAppApiUsers" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PhotoAppApiAccountManagement" target="11" />
+      <module name="PhotoAppApiUsers" target="11" />
+      <module name="PhotoAppApiZuulAPIGateway" target="11" />
+      <module name="PhotoAppDiscoveryService" target="11" />
+      <module name="quick-start-spring-boot" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="PhotoAppApiAccountManagement" options="-parameters" />
+      <module name="PhotoAppApiUsers" options="-parameters" />
+      <module name="PhotoAppApiZuulAPIGateway" options="-parameters" />
+      <module name="PhotoAppDiscoveryService" options="-parameters" />
+      <module name="quick-start-spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>
