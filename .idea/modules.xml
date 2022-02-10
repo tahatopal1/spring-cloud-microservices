@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/5-Users Microservice A Quick Start/PhotoAppApiUsers/PhotoAppApiUsers.iml" filepath="$PROJECT_DIR$/5-Users Microservice A Quick Start/PhotoAppApiUsers/PhotoAppApiUsers.iml" />
       <module fileurl="file://$PROJECT_DIR$/7-Zuul API Gateway A Quick Start/PhotoAppApiZuulAPIGateway/PhotoAppApiZuulAPIGateway.iml" filepath="$PROJECT_DIR$/7-Zuul API Gateway A Quick Start/PhotoAppApiZuulAPIGateway/PhotoAppApiZuulAPIGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Eureka DiscoveryService A Quick Start/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" filepath="$PROJECT_DIR$/4-Eureka DiscoveryService A Quick Start/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Spring Cloud API Gateway A Quick Start/PhotoAppSpringCloudAPIGateway/PhotoAppSpringCloudAPIGateway.iml" filepath="$PROJECT_DIR$/8-Spring Cloud API Gateway A Quick Start/PhotoAppSpringCloudAPIGateway/PhotoAppSpringCloudAPIGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-Building RESTful Web Services A Quick Start/quick-start-spring-boot/quick-start-spring-boot.iml" filepath="$PROJECT_DIR$/3-Building RESTful Web Services A Quick Start/quick-start-spring-boot/quick-start-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-microservices.iml" />
     </modules>

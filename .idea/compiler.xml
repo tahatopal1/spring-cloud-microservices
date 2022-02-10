@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PhotoAppSpringCloudAPIGateway" />
         <module name="PhotoAppApiAccountManagement" />
         <module name="PhotoAppApiZuulAPIGateway" />
         <module name="quick-start-spring-boot" />
@@ -18,6 +19,7 @@
       <module name="PhotoAppApiUsers" target="11" />
       <module name="PhotoAppApiZuulAPIGateway" target="11" />
       <module name="PhotoAppDiscoveryService" target="11" />
+      <module name="PhotoAppSpringCloudAPIGateway" target="11" />
       <module name="quick-start-spring-boot" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -27,6 +29,7 @@
       <module name="PhotoAppApiUsers" options="-parameters" />
       <module name="PhotoAppApiZuulAPIGateway" options="-parameters" />
       <module name="PhotoAppDiscoveryService" options="-parameters" />
+      <module name="PhotoAppSpringCloudAPIGateway" options="-parameters" />
       <module name="quick-start-spring-boot" options="-parameters" />
     </option>
   </component>
