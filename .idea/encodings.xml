@@ -13,5 +13,7 @@
     <file url="file://$PROJECT_DIR$/7-Zuul API Gateway A Quick Start/PhotoAppApiZuulAPIGateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8-Spring Cloud API Gateway A Quick Start/PhotoAppSpringCloudAPIGateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8-Spring Cloud API Gateway A Quick Start/PhotoAppSpringCloudAPIGateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-Spring Cloud Config Server/PhotoAppAPIConfigServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9-Spring Cloud Config Server/PhotoAppAPIConfigServer/src/main/resources" charset="UTF-8" />
   </component>
 </project>

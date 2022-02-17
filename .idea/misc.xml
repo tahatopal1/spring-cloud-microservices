@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/3-Building RESTful Web Services A Quick Start/quick-start-spring-boot/pom.xml" />
         <option value="$PROJECT_DIR$/6-Account Management Microservice A Quick Start/PhotoAppApiAccountManagement/pom.xml" />
         <option value="$PROJECT_DIR$/8-Spring Cloud API Gateway A Quick Start/PhotoAppSpringCloudAPIGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/9-Spring Cloud Config Server/PhotoAppAPIConfigServer/pom.xml" />
       </list>
     </option>
   </component>
