@@ -6,18 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AlbumAppApiUsers" />
         <module name="PhotoAppApiAccountManagement" />
         <module name="PhotoAppApiZuulAPIGateway" />
         <module name="quick-start-spring-boot" />
         <module name="PhotoAppSpringCloudAPIGateway" />
         <module name="PhotoAppAPIConfigServer" />
+        <module name="PhotoAppAPIFileConfigServer" />
         <module name="PhotoAppDiscoveryService" />
         <module name="PhotoAppApiUsers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AlbumAppApiUsers" target="11" />
       <module name="PhotoAppApiAccountManagement" target="11" />
+      <module name="PhotoAppApiAlbums" target="1.8" />
       <module name="PhotoAppAPIConfigServer" target="11" />
+      <module name="PhotoAppAPIFileConfigServer" target="11" />
       <module name="PhotoAppApiUsers" target="11" />
       <module name="PhotoAppApiZuulAPIGateway" target="11" />
       <module name="PhotoAppDiscoveryService" target="11" />
@@ -27,8 +32,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AlbumAppApiUsers" options="-parameters" />
       <module name="PhotoAppAPIConfigServer" options="-parameters" />
+      <module name="PhotoAppAPIFileConfigServer" options="-parameters" />
       <module name="PhotoAppApiAccountManagement" options="-parameters" />
+      <module name="PhotoAppApiAlbums" options="-parameters" />
       <module name="PhotoAppApiUsers" options="-parameters" />
       <module name="PhotoAppApiZuulAPIGateway" options="-parameters" />
       <module name="PhotoAppDiscoveryService" options="-parameters" />

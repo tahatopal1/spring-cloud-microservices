@@ -4,6 +4,7 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.io.Serializable;
+import java.util.List;
 
 public class UserDto implements Serializable {
 
@@ -22,6 +23,8 @@ public class UserDto implements Serializable {
     @NotNull(message = "Email cannot be null")
     @Email(message = "Please enter a valid email")
     private String email;
+
+    private List<AlbumDto> albums;
 
     public String getFirstName() {
         return firstName;
@@ -53,5 +56,13 @@ public class UserDto implements Serializable {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public List<AlbumDto> getAlbums() {
+        return albums;
+    }
+
+    public void setAlbums(List<AlbumDto> albums) {
+        this.albums = albums;
     }
 }
